@@ -15,4 +15,4 @@ with state-of-the-art algorithms and evaluated through ablation
 experiments under large-curvature motion. The experimental
 results demonstrate that the proposed algorithm effectively mitigates drift problem in large-curvature motion, and significantly
 enhancing its robustness.<img width="1372" height="921" alt="image" src="https://github.com/user-attachments/assets/c59bfdcc-a404-4f67-af5e-9734ec9fada8" /><img width="1372" height="921" alt="image" src="https://github.com/user-attachments/assets/27a8f8fd-2fce-4250-bde2-aa201704ef7b" />
-
+Our project is developed based on LVI-SAM. Therefore, the dependencies of our method are consistent with it, and there are no additional dependency requirements.
